@@ -1,0 +1,14 @@
+C:\Users\vuong\source\repos\ex1.2\ex1.2\bin\Debug\net8.0\ex1.2.exe
+C:\Users\vuong\source\repos\ex1.2\ex1.2\bin\Debug\net8.0\ex1.2.deps.json
+C:\Users\vuong\source\repos\ex1.2\ex1.2\bin\Debug\net8.0\ex1.2.runtimeconfig.json
+C:\Users\vuong\source\repos\ex1.2\ex1.2\bin\Debug\net8.0\ex1.2.dll
+C:\Users\vuong\source\repos\ex1.2\ex1.2\bin\Debug\net8.0\ex1.2.pdb
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.AssemblyInfoInputs.cache
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.AssemblyInfo.cs
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.csproj.CoreCompileInputs.cache
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.dll
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\refint\ex1.2.dll
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.pdb
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ex1.2.genruntimeconfig.cache
+C:\Users\vuong\source\repos\ex1.2\ex1.2\obj\Debug\net8.0\ref\ex1.2.dll
